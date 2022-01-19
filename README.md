@@ -1,8 +1,5 @@
 # odin-recipes
-Hello to those that are reading this!
-
-In this first project I’ll demonstrate my very basic html/git knowledge that I've learned so far through the Odin Project. 
-I'll be creating a very basic web page where I'll be linking to a bunch of recipes through a main index page.
+This is a very basic html site with a main index page that links to three seperate recipe pages. This site is intended to show my progression through the Odin Project.  
 
 -Marcus 
 
