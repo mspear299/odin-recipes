@@ -1,9 +1,11 @@
+/*index page styles*/
+
 * {
     background-color:rgb(150, 204, 255);
     font-family: Helvetica, sans-serif;
 }
 
-#title{
+.title{
     text-align: center;
     font-size: 48px;
     padding: 4px;
