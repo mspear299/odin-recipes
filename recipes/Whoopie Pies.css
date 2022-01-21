@@ -1,0 +1,15 @@
+* {
+    background-color:rgb(94, 233, 136);
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+.ingredients li{
+    text-align: left;
+    margin-left: 625px;
+    padding: 5px;
+}
+
+.steps li{
+    padding: 5px;
+}
