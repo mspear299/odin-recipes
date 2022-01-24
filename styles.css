@@ -3,20 +3,20 @@
 * {
     background-color:rgb(150, 204, 255);
     font-family: Helvetica, sans-serif;
+     text-align: center;
 }
 
 .title{
     text-align: center;
     font-size: 48px;
-    padding: 4px;
+    padding: 10px;
 }
 
 .list, .one, .two, .three{
     text-align: center;
     font-size: 18px;
-    padding: 7px;
+    padding: 8px;
 }
-
 
 img{
     padding: 48px;
