@@ -26,3 +26,12 @@ img{
     height: auto;
 }
    
+.ingredients li{
+    text-align: left;
+    margin-left: 625px;
+    padding: 8px;
+}
+
+.steps li{
+    padding: 8px;
+}
